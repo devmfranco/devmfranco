@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Diferents Proyects**
 
-- 💬 Ask me about **HTML, CSS, Python, Automate**
+- 💬 Ask me about **HTML, CSS, Python, Automate, C# and ASP.net**
 
 - 📫 How to reach me **michaelhq142717@gmail.com**
 
