@@ -1,35 +1,48 @@
-<h1 align="center">Hi 👋, I'm Michael Franco</h1>
-<h3 align="center">A passionate  developer from Dominican Republic</h3>
+# Hola, soy Michael Franco 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devmfranco&label=Profile%20views&color=0e75b6&style=flat" alt="devmfranco" /> </p>
+**Ingeniero en Software | Analista de Datos | Especialista en Big Data**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmfranco" alt="devmfranco" /></a> </p>
+Ingeniero en Software con una doble Maestría en Big Data & Business Intelligence y Project Management. Mi experiencia abarca desde el desarrollo de software y arquitecturas backend hasta el análisis de datos avanzado. He aportado valor en instituciones financieras y gubernamentales diseñando consultas SQL complejas, dashboards en Power BI y flujos de automatización con Power Automate. Combino mi capacidad analítica con el desarrollo de soluciones integrales que resuelven problemas reales de negocio.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### 🛠️ Stack Tecnológico y Herramientas
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- 🔭 I’m currently working on **MICM**
+---
 
-- 🌱 I’m currently learning **Python,Typescript,React,Django**
+## 🚀 Proyectos Destacados
 
-- 👯 I’m looking to collaborate on **Diferents Proyects**
+### [🤖 IAventary | Sistema Inteligente de Inventario y Facturación](https://github.com/devmfranco/IAventary)
+Desarrollo de un sistema integral y autogestionable para la administración de inventario. El núcleo integra Inteligencia Artificial para optimizar el stock y automatizar flujos comerciales.
+* **Stack:** TypeScript, NestJS, PostgreSQL (Supabase), TypeORM.
+* **Impacto:** Arquitectura escalable orientada a servicios y gestión inteligente de inventario.
 
-- 💬 Ask me about **HTML, CSS, Python, Automate, C# and ASP.net**
+### [🚨 Vigilante CJB | Plataforma de Alertas Comunitarias y Seguridad](https://github.com/devmfranco/vigilante-cjb)
+Sistema de alertas geolocalizadas que conecta a los residentes con empresas de seguridad en tiempo real. 
+* **Stack:** React, TypeScript, Vite, Leaflet, Supabase.
+* **Impacto:** Panel administrativo CRUD y mapa interactivo para monitoreo perimetral.
 
-- 📫 How to reach me **michaelhq142717@gmail.com**
+### [🧠 TalentFit AI | Analizador de Habilidades y CVs con Machine Learning](https://github.com/devmfranco/ai-resume-skill-analyzer)
+Aplicación de NLP que evalúa la coincidencia semántica entre Currículums y Ofertas de Trabajo 100% en el navegador.
+* **Stack:** JavaScript, Similitud Coseno, TF-IDF, Chart.js.
+* **Impacto:** Generación de Skill Gap Matrix y auditoría ATS con total privacidad.
 
-- ⚡ Fun fact **I think im funny and i really like learnig about diferents things**
+### [📦 Nish-Soft Extend | Sistema de Facturación Transaccional](https://github.com/devmfranco/nish-soft-extend)
+Sistema backend diseñado para el control preciso de inventario, procesamiento de ventas y emisión de comprobantes fiscales.
+* **Stack:** TypeScript, NestJS, TypeORM, Mailjet.
+* **Impacto:** Sistema de autenticación seguro y notificaciones automatizadas.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/michael franco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael franco" height="30" width="40" /></a>
-</p>
+### [♻️ ReciclaDO | Aplicación Móvil de Impacto Ambiental](https://github.com/devmfranco/ReciclaDO)
+Plataforma móvil colaborativa para incentivar el reciclaje mediante geolocalización.
+* **Stack:** React Native, Expo, Node.js.
+* **Impacto:** Seguimiento personal de métricas de reciclaje en iOS y Android.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmfranco&show_icons=true&locale=en&layout=compact" alt="devmfranco" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmfranco&show_icons=true&locale=en" alt="devmfranco" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmfranco&" alt="devmfranco" /></p>
-
+### [🏋️ Fitplans | Backend para Gestión de Ejercicios](https://github.com/devmfranco/fitplans)
+Aplicación de fitness donde desarrollé la lógica de usuarios y el control de datos, diseñada para soportar las demandas de entrenamientos reales.
+* **Stack:** TypeScript, Angular, Karma, Vercel.
+* **Impacto:** Gestión eficiente en entorno colaborativo y estructuración segura de componentes.
